@@ -1,6 +1,9 @@
 # Arogya-Pandit
 
 # Automated ATS Resume Scoring using Large Language Models and Gemini API Integration
+
+![image](https://github.com/user-attachments/assets/e2932afd-7e54-4312-99f3-04be0c47695f)
+
 # Overview
 
 Welcome to the Gemini Applicant Tracking System (ATS)! This system is developed using the powerful Gemini model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
