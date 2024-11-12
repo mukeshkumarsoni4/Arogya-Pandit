@@ -41,6 +41,17 @@ pip install -r requirements.txt
    GOOGLE_API_KEY= "your_api_key"
    ```
 
+# Technologies Used
+1. Streamlit: An open-source app framework for creating web apps with Python.
+2. PyPDF2: A PDF toolkit for extracting text from PDF files.
+3. google.generativeai: Google's Generative AI for generating intelligent responses.
+4. python-dotenv: A module to load environment variables from a .env file.
+
+# Brief Overview of Technologies
+1. Streamlit: Allows the creation of interactive web applications with minimal code, perfect for data-driven applications.
+2. PyPDF2: Helps in reading and extracting text from PDF files, which is crucial for processing resume files.
+3. python-dotenv: Manages environment variables, keeping sensitive data like API keys secure and separate from the codebase.
+
    ## Usage
 1. Run the application:
 ```bash
