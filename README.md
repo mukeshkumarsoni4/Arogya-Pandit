@@ -58,6 +58,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+# Project Demonstration & Documentation
+
+## Demonstration Video
+
+[![Watch the video](https://img.youtube.com/vi/udUqNwTcHBs/0.jpg)](https://youtu.be/udUqNwTcHBs)
+
 2. Access the application through your web browser at http://localhost:8501/
 
 3. Input the job description and candidate's resume in the provided fields.
