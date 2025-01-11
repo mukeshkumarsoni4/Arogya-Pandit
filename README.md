@@ -58,12 +58,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-# Project Demonstration & Documentation
-
-## Demonstration Video
-
-[![Watch the video](https://img.youtube.com/vi/udUqNwTcHBs/0.jpg)](https://youtu.be/udUqNwTcHBs)
-
 2. Access the application through your web browser at http://localhost:8501/
 
 3. Input the job description and candidate's resume in the provided fields.
@@ -71,6 +65,13 @@ streamlit run app.py
 4. Click the "Submit" button to initiate the analysis.
 
 5. Review the results, including the job description match, missing keywords, and profile summary.
+
+# Project Demonstration & Documentation
+
+## Demonstration Video
+
+[![Watch the video](https://img.youtube.com/vi/udUqNwTcHBs/0.jpg)](https://youtu.be/udUqNwTcHBs)
+
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
